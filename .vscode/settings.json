@@ -26,5 +26,8 @@
         "-std=c++17",
         "-Wall"
     ],
-    "clang.completion.enable":false
+    "clang.completion.enable": false,
+    "files.associations": {
+        "xutility": "cpp"
+    }
 }
