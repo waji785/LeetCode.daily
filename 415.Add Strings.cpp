@@ -6,7 +6,7 @@ Both num1 and num2 contains only digits 0-9.
 Both num1 and num2 does not contain any leading zero.
 You must not use any built-in BigInteger library or convert the inputs to integer directly.
 using namespace std;*/
-//暴力玩法，同67题，我是不会满足的
+//暴力玩法，同67题，我是不会满足的，对我来说有一点点难，过几天上传
 int x=[](){
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
