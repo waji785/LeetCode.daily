@@ -34,6 +34,7 @@
         "vector": "cpp",
         "xstring": "cpp",
         "iostream": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "xlocale": "cpp"
     }
 }
