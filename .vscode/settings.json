@@ -36,6 +36,8 @@
         "iostream": "cpp",
         "string": "cpp",
         "xlocale": "cpp",
-        "xhash": "cpp"
+        "xhash": "cpp",
+        "algorithm": "cpp",
+        "list": "cpp"
     }
 }
